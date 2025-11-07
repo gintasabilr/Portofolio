@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Profil Company Coffe Shop",
+    "description": "Website profil untuk coffee shop yang menyediakan katalog produk, sistem pemesanan untuk memudahkan pelanggan berbelanja kopi secara digital.",
+    "technologies": ["Laravel", "MySql"],
+    "image": "/client/public/images/nun.png",
+    "link": "https://nuncoffee.shop/"
+  },
+  {
+    "id": 2,
+    "title": "Sistem CRM Laundry",
+    "description": "Aplikasi CRM berbasis React JS untuk pengelolaan laundry. Menyediakan fitur manajemen pelanggan, pencatatan transaksi, pelacakan status cucian, dan dashboard operasional untuk meningkatkan efisiensi layanan laundry",
+    "technologies": ["React JS"],
+    "image": "/client/public/images/htm.png",
+    "link": "https://crm-kelompok7-23-sia.vercel.app/"
+  },
+  {
+    "id": 3,
+    "title": "UI/UX GoCampus",
+    "description": "Desain UI/UX aplikasi GoCampus yang berfokus pada penyediaan informasi seputar beasiswa, program magang, kegiatan volunteer, dan peluang pengembangan diri bagi mahasiswa. Tampilan dirancang agar intuitif dan mudah diakses oleh pengguna yang mencari kesempatan akademik dan non-akademik.",
+    "technologies": ["Figma"],
+    "image": "/client/public/images/gocampus.png",
+    "link": "https://www.behance.net/gallery/217179807/UIUX-APLIKASI-GOCAMPUS"
+  }
+]
